@@ -1,0 +1,158 @@
+.menu{
+
+    display: flex; 
+    justify-content:space-between;
+    width: 100%;
+    text-transform: uppercase;
+}
+
+
+
+nav ul{
+
+    display: flex;
+
+}
+section{
+    display: flex;
+
+}
+
+
+.filtre{
+    
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+
+nav ul{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+ul li {
+    
+    display: flex;
+    justify-content: space-between;
+    padding-right: 5px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    background-color: white;
+}
+
+ul li i { 
+    
+    padding: 5px;
+    color: white;
+    background: #0065FC;
+    border-radius: 20px;
+}
+
+
+
+.range1{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.range12 {
+
+    display: flex;
+    flex-direction: column;
+   
+
+  }
+
+.flex {
+    display: flex;
+    margin: 10px 10px 10px 10px;
+    background: rgb(161, 160, 160);
+
+}
+
+.column {
+    flex-direction: column;
+
+
+}
+
+.flex2 div{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 10px 10px 10px;
+}
+
+.flex2{
+    background: rgb(161, 160, 160);
+}
+
+nav{
+    margin: 0;
+    padding: 0;
+}
+
+.menup ul li{
+    margin:30px;
+
+}
+
+.menup ul{
+    display: flex;
+
+}
+
+.bg{
+
+    background: white;
+    padding: 10px;
+
+    
+}
+
+
+.hb {
+   width: 200px;
+   height: 200px;
+   border-radius: 15px;
+
+}
+
+.hb1 {
+    width: 400px;
+    height: 200px;
+    border-radius: 15px;
+ 
+ }
+ 
+
+.act1 {
+    width: 400px;
+    height: 600px;
+    border-radius: 15px;
+}
+.act2 {
+        width: 400px;
+        height: 200px;
+        border-radius: 15px;  
+} 
+
+footer{
+    background-color: rgb(202, 200, 201);
+}
+
+.footer ul li{
+
+    display: flex; 
+    justify-content:space-between;
+    width: 100%;
+}
+
+
+
+
